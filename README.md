@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lofan9214&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lofan9214&show_icons=true&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lofan9214)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lofan9214)
 
 
   📖 Languages & Frameworks
